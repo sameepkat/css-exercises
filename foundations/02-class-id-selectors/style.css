@@ -1,0 +1,16 @@
+.pinky{
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: rgb(255, 167, 167);
+}
+.bigger{
+    font-size: 24px;
+}
+.blue{
+    color: blue;
+    font-size: 36px;
+}
+.green{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
